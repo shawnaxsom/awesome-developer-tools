@@ -23,6 +23,8 @@
   
 <img src="https://insomnia.rest/static/main-ac0a1732afac19acce5ad6825595c3bb-f3479.webp">
 
+## [BeardedSpice](https://beardedspice.github.io/) - Media hotkeys to control Spotify or other preferred music players
+
 ## [Alfred](https://www.alfredapp.com/) - Spotlight search alternative
 
   - Clipboard manager with search history
