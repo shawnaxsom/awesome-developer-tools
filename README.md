@@ -8,7 +8,13 @@
 - [Dotfiles](#dotfiles)
 - [Third Party Lists](#third-party-lists)
 
-# Desktop
+# OS X
+
+## [CloudApp](https://www.getcloudapp.com/) - Screenshots, GIFs, and videos with annotation, security controls, and cloud storage
+
+## [ShiftIt](https://github.com/fikovnik/ShiftIt) - Window sizing and positioning
+
+  - Includes an "Increase Size" hotkey that other apps like Spectacle might not have
 
 ## [Insomnia](http://insomnia.rest/) - REST Client with a great UI
 
