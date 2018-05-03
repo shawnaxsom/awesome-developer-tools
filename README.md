@@ -95,6 +95,12 @@
   - Open files with "f" key and an assigned letter for hyperlinks
   - Search browser history or bookmarks
 
+#### [FlowCrypt](https://chrome.google.com/webstore/detail/flowcrypt-encrypt-gmail-w/bnjglocicdkmhmoohhfkfkbbkejdhdgc) - Encrypt Email With PGP
+
+  - Friendly user experience
+  - Seamless integration with Gmail / Inbox
+  - Nicer interface than Mailvelope
+
 # Text Editors
 
 ## Vim
