@@ -42,6 +42,11 @@
 
 # Command Line
 
+## [Spiderhash](https://spiderhash.io/) - Webhook debugging, inspection, and replay toolkit for developers
+
+  - Capture incoming webhooks with endpoint history and payload inspection
+  - Replay and troubleshoot delivery issues quickly during API integrations
+
 ## [FZF](https://github.com/junegunn/fzf) - Versatile fuzzy search tool that can be used for virtually any lists or input
 
 <img src="https://raw.githubusercontent.com/junegunn/i/master/fzf-preview.png">
