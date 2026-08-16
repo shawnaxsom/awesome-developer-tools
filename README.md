@@ -72,6 +72,11 @@
   - Declaritive set up of Tmux panes
   - Quickly set up your development environment
 
+## [Agent QA](https://github.com/vostride/agent-qa) - Natural-language web and mobile QA from the command line
+
+  - Persists test knowledge between runs
+  - Also exposes an MCP server
+
 # Web Browsers
 
 ## Chrome
@@ -136,4 +141,3 @@
 
   - https://github.com/nikitavoloboev/my-mac-os
   - https://github.com/alebcay/awesome-shell
-
