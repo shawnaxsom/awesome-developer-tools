@@ -40,6 +40,11 @@
 
 <img src="https://tryshiftcdn.com/static/images/v2/shift20@2x.gif"> 
 
+## [Glim](https://github.com/NeoPanic/Glim) - macOS file viewer with Markdown preview and basic text editing
+
+  - Read Markdown, PDF, data and source files in one workspace
+  - Apple Silicon and Intel releases; document and image previews are read-only
+
 # Command Line
 
 ## [FZF](https://github.com/junegunn/fzf) - Versatile fuzzy search tool that can be used for virtually any lists or input
